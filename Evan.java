@@ -1,7 +1,7 @@
 public class Evan{
         public static void main(String[] args){
             String name = "Evann";
-            int age = 22;
+            int age = 29;
             String hobby = "football";
 
             System.out.println(name +" is " + age + ". He likes playing " + hobby);
