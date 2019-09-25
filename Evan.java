@@ -1,6 +1,6 @@
 public class Evan{
         public static void main(String[] args){
-            String name = "Evan";
+            String name = "Evann";
             int age = 22;
             String hobby = "football";
 
